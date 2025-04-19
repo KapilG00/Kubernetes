@@ -5,7 +5,7 @@ metadata:
     run: nginx-yaml
     method: fromCode
     soloDota2: winTrader
-  name: nginx-y:aml
+  name: nginx-yaml
 spec:
   containers:
   - image: nginx
